@@ -30,24 +30,12 @@ a {
     color: #111;
   }
 
-span #menu-color{
-  fill: #39add1;
-  transition: 200ms;
-  transition-timing-function: ease-in-out;  
+a:hover path{
+  fill: #111;
 }
 
-span #menu-color:hover{
-  fill: #000;
-}
-
-#menu-icon:hover{
-  fill: #000;
-}
-
-#menu-icon{
-  fill: #39add1;
-  transition: 200ms;
-  transition-timing-function: ease-in-out;
+.menu-icon{
+  fill: #39ADD1;
 }
 
 header {
@@ -124,10 +112,6 @@ footer {
 
 /*****************  SVG-icons  ***********************/
 
-
-#menu-icon{
-
-}
 
 
 
